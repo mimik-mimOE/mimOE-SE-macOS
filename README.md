@@ -1,7 +1,7 @@
 
 # mimOE-SE-macOS
 
-**mimOE (mim Operating Environment)**, mimOE-SE-macOS Standard Edition for Apple macOS.
+**mim OE (mim Operating Environment)**, mimOE-SE-macOS Standard Edition for Apple macOS.
 
 ## Before You Start
 
